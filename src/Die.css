@@ -1,0 +1,10 @@
+
+.Die{
+    display: flex;
+}
+
+.Die-icon{
+    font-size: 10rem;
+    padding: 25px;
+    color :green
+}
